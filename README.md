@@ -7,9 +7,9 @@ flex-direction		: row	| column
 flex-wrap		: wrap  | nowrap | wrap-reverse
 flex-basis		: <length>   | auto 
 justify-content 	: flex-start | flex-end | center
-align-self		: flex-start | flex-end | center | stretch | auto 
+align-self		: flex-start | flex-end | center | auto 
 align-items		: flex-start | flex-end | center | stretch 
-align-content		: flex-start | flex-end | center | stretch | space-between | space-arround | space-evenly
+align-content		: flex-start | flex-end | center | space-between | space-arround | space-evenly
 flex-grow		: <integer>
 flex-shrink		: <integer>
 flex			: <integer>
